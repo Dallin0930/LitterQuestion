@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acd82444-02b3-409e-95a1-cc1c8f0c61e7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyWorkSpace/LitterQuest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2019ITA/QuickStart.html" />
+        <option value="$PROJECT_DIR$/MyWorkSpace/combobox.html" />
+        <option value="$PROJECT_DIR$/MyWorkSpace/json_reader.txt" />
+        <option value="$PROJECT_DIR$/MyWorkSpace/autoFill.html" />
+        <option value="$PROJECT_DIR$/MyWorkSpace/LayoutSingle.html" />
+        <option value="$PROJECT_DIR$/2019ITA/layout/fitTest.html" />
+        <option value="$PROJECT_DIR$/MyWorkSpace/borderLayout.html" />
+        <option value="$PROJECT_DIR$/2019ITA/layout/borderLayout1.html" />
+        <option value="$PROJECT_DIR$/2019ITA/layout/accordLayoutTest.html" />
+        <option value="$PROJECT_DIR$/2019ITA/layout/cardLayout.html" />
+        <option value="$PROJECT_DIR$/MyWorkSpace/cardLayout.html" />
+        <option value="$PROJECT_DIR$/MyWorkSpace/LitterQuest.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-31" />
+    <option name="y" value="188" />
+    <option name="width" value="1415" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WorkSpace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WorkSpace" type="462c0819:PsiDirectoryNode" />
+              <item name="MyWorkSpace" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ext-3.3.0\ext-3.3.0\MyWorkSpace" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acd82444-02b3-409e-95a1-cc1c8f0c61e7" name="Default Changelist" comment="" />
+      <created>1565238933765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565238933765</updated>
+      <workItem from="1565238935969" duration="18009000" />
+      <workItem from="1565258983358" duration="2758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20767000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="69" y="84" width="1561" height="1100" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19223301" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2019ITA/BoxComponent.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/QuickTip.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/ComboBox2.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/ComboBox3.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/HtmlEditor.html" />
+    <entry file="file://$PROJECT_DIR$/MyWorkSpace/json_reader.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019ITA/json_reader.txt" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/fitLayoutLimitation2.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/fitLayoutLimitation3.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/fitLayoutLimitation4.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/TabPanel.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/fitLayoutLimitation.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/fitLayout.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/fitTest.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/borderLayout2.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/borderLayout5.html" />
+    <entry file="file://$PROJECT_DIR$/MyWorkSpace/borderLayout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/accordLayoutTest.html" />
+    <entry file="file://$PROJECT_DIR$/MyWorkSpace/autoFill.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/cardLayout.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/accordionLayout.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/borderLayout3.html" />
+    <entry file="file://$PROJECT_DIR$/MyWorkSpace/combobox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyWorkSpace/LayoutSingle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="894">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019ITA/ComboBox.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/form/formSubmission.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/FormAutoFill.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/layout/borderLayout1.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/Form.html" />
+    <entry file="file://$PROJECT_DIR$/2019ITA/QuickStart.html" />
+    <entry file="file://$PROJECT_DIR$/MyWorkSpace/cardLayout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyWorkSpace/LitterQuest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
